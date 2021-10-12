@@ -1,0 +1,104 @@
+body {
+
+}
+div {
+  padding: 50px;
+}
+#tomato {
+  background-color: red;
+  padding: 10px 6px 7px 2px;
+  border: 5px solid rgb(107, 202, 52);
+  width: 900px;
+  margin: 20px auto; 
+
+  outline: 10px dashed yellow;
+}
+#orange {
+  background-color: orangered;
+  padding: 7px 2px 10px 6px;
+  border: 5px dotted rgb(88, 88, 204);
+  width: 500px;
+  margin: 40px;
+  outline: 5px solid green;
+}
+#yellow {
+  background-color: yellow;
+  padding: 0 0 3px 0;
+  border: 5px dashed black;
+  width: 300px;
+  margin: 20px;
+}
+#blue {
+  background-color: turquoise;
+  padding: 0 20px;
+  border: 7px groove rgb(185, 14, 185);
+}
+#deepblue {
+  background-color: blue;
+  border: 8px double rgb(248, 22, 97);
+}
+#purple {
+  background-color: blueviolet;
+  border: 7px ridge yellow;
+}
+#green {
+  background-color: green;
+  border: 5px inset brown;
+}
+#gray {
+  background-color: gray;
+  border: 5px outset rgb(68, 64, 64);
+}
+#pink {
+  background-color: hotpink;
+  border: 5px outset rgb(17, 209, 113);
+}
+#salad {
+  background-color: lawngreen;
+  border: 6px dotted red;
+}
+#violet {
+  background-color: rgb(226, 111, 226);
+  text-align: center;
+}
+
+#petal-1 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 0 675px;
+  border-radius: 50% 0;
+  margin-bottom: -300px;
+}
+#petal-2 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 0 375px;
+  margin-bottom: -150px;
+  border-radius: 0 50%;
+}
+#petal-5 {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: -370px;
+  border-radius: 50%;
+}
+#petal-3 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 0 375px;
+  margin-top: 100px;
+  border-radius: 50% 0;
+}
+#petal-4 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 0 675px;
+  margin-top: -300px;
+  border-radius: 0 50%;
+}
